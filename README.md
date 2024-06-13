@@ -1,4 +1,4 @@
-### <div align="center">I'm Sumit Shandillya, a full-time full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Sumit Shandillya, a full-time full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently finding new opportunities.  
@@ -90,16 +90,16 @@
 ## Coding Profiles
 <div align="center">
 <a href="https://leetcode.com/u/sumitsh28/" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=512" height="50" />
 </a>
 <a href="https://www.codechef.com/users/shan4325" target="_blank">
-<img src="https://img.icons8.com/fluency/240/codechef.png" />
+<img src="https://img.icons8.com/fluency/240/codechef.png" height="50"/>
 </a>
 <a href="https://codeforces.com/profile/sumit1" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=512" height="50"/>
 </a>
 <a href="https://www.interviewbit.com/profile/destructor-28/" target="_blank">
-<img src="https://img.icons8.com/plasticine/400/interviewbit.png" />
+<img src="https://img.icons8.com/plasticine/400/interviewbit.png" height="50"/>
 </a>  
 </div>  
   
