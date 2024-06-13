@@ -132,7 +132,7 @@
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31jajdphrmzsa75takmq4rbgodhe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31jajdphrmzsa75takmq4rbgodhe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jajdphrmzsa75takmq4rbgodhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
@@ -143,4 +143,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">BYE!!!!!!!!!!!!</div>
