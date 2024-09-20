@@ -4,7 +4,7 @@
 - 🔭 I’m currently finding new opportunities.  
   
 
-- 🌱 I’m currently learning Machine Learning and How to build scalable systems.  
+- 🌱 I’m currently learning Solidity, Rust and How to build scalable systems.  
   
 
 - ❓ Don't ask me about anything related to MERN stack and related technologies, Ask something intresting.  
