@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning GEN AI.  
   
 
-- ❓ Don't ask me about anything related to MARVEL & DC.  
+- ❓Ask me about anything related to MARVEL & DC.  
   
 
 - ⚡ Fun fact: I hate Javascript.
