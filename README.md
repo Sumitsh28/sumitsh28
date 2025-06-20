@@ -134,9 +134,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sumitsh28&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<div align="center">  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kaud66xugzultsrogqi77t7u4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kaud66xugzultsrogqi77t7u4e&redirect=true)
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kaud66xugzultsrogqi77t7u4e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kaud66xugzultsrogqi77t7u4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 
 <br/>  
 
