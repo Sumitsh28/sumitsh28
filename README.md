@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I hate Javascript.
 
 
-- 👋 My Portfolio: www.sumitshandillya.site
+- 👋 My Portfolio: www.sumitsh.live
 
   
 
