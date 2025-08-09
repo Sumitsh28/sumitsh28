@@ -1,6 +1,4 @@
-<a href="https://tracker-ten-gilt.vercel.app/api/click" target="_blank">
-  <img src="https://img.shields.io/badge/Click%20on%20me-blue?style=for-the-badge" />
-</a>
+
 
 
 
