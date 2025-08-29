@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I hate Javascript.
 
 
-- 👋 My Portfolio: www.sumitsh.live
+
 
   
 
